@@ -1,5 +1,5 @@
-/* This script is to adopt the Tasseled Cap (TC) Transformation for Landsat-7 Surface 
-Reflecance in GEE. TC coefficents are found in:
+/* This script was written by Brian Wong on 12/31/2017 to adopt the Tasseled Cap (TC)
+Transformation for Landsat-7 Surface Reflecance in GEE. TC coefficents are found in:
 
 Crist, E. P., and R. C. Cicone. “A Physically-Based Transformation of Thematic Mapper 
 Data—The TM Tasseled Cap.” IEEE Transactions on Geoscience and Remote Sensing, vol. 
