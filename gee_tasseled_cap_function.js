@@ -8,7 +8,10 @@ GE-22, no. 3, May 1984, pp. 256–63. IEEE Xplore, doi:10.1109/TGRS.1984.350619.
 Additionally, a simple TC example from GEE can be found in following link, however, no
 existing & readily available function existed, hence this script.
 
-GEE TC example: https://developers.google.com/earth-engine/arrays_array_images
+Tasseled-Cap example for single image: https://developers.google.com/earth-engine/arrays_array_images
+
+GEE link for this script: https://code.earthengine.google.com/4f4597313c868a15f17e072dbf2fb7eb
+GitHub: https://github.com/brianadrianwong/earthengine/blob/master/gee_tasseled_cap_function.js
 */
  
 // load & visualize test scene
